@@ -1,2 +1,2 @@
 # basar
-Arithmetic using any numbers of digits in any radix
+C++ tools for Arithmetic using any numbers of digits in any radix
